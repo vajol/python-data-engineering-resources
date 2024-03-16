@@ -1,11 +1,11 @@
-# Tools for Python
+# Data Storage Solutions for Python
 
 [Home](../README.md#python-data-engineering-resources)
 
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [List of data storage soltions](#list-of-data-storage-solutions)
+2. [List of data storage solutions](#list-of-data-storage-solutions)
 3. [How to choose the right data storage solution](#how-to-choose-the-right-data-storage-solution)
 4. [List of cloud-based Data warehousing tools](#list-of-cloud-based-data-warehousing-tools)
 
