@@ -156,6 +156,10 @@ Here's a selection of well-known online blogs dedicated to data engineering with
 6. **DBT (Data Build Tool) Blog**:
    - [Blog Link](https://blog.getdbt.com/)
    - Description: The DBT blog offers insights into modern data engineering practices, focusing on the tool DBT, which is widely used for transforming data in warehouses. The blog features case studies, best practices, and tips for data engineers, particularly those interested in analytics engineering.
+  
+7. **blef.fr blog and newsletter**:
+   - [Blog Link](https://blef.fr)
+   - Description: blef.fr is a technical blog about data & analytics engineering. He sends a weekly newsletter called the Data News every Friday in which is shares the best articles about data engineering, analytics and AI with his opinion.
 
 These blogs are valuable resources for staying current with the latest advancements, techniques, and discussions in the data engineering field, particularly those involving Python.
 
