@@ -14,6 +14,20 @@ Each section includes:
 - A list of the most relevant tools found in that category.
 - A guide on selecting the appropriate tool from each category.
 
+## Get Your Free eBook Copy - Limited Time!
+
+I've turned the resources from this repo into an [eBook](https://companioncode.gumroad.com/l/python-data-engineering-resources), and it's FREE for a limited time. Follow the link, set the price to "0" (zero) and get the book for free. Or you can name your fair price and support my work.
+
+Here are the details:
+
+- No worries: The repo isn't going anywhere. It'll stay right here, updated and free. Think of the eBook as a bonus or a handy way to take the resources with you.
+
+- For a short while, you can get the eBook at no cost. It's a thank you from me to you for all the support and good vibes you've given this project.
+
+- Later on: After the freebie period, the eBook will be up for sale. This will help me keep this project alive and kicking, bringing more cool stuff your way.
+
+- Get your copy: Click [here](https://companioncode.gumroad.com/l/python-data-engineering-resources) or check out the [sample](resources/sample-python-ebook.pdf) of the eBook first. Make sure to get it while it's free!
+
 ## Resources Included:
 
 1. **[ORMs for Python](resources/orms-for-python.md)**: Including popular ORMs like SQLAlchemy, Django ORM, Peewee, etc.
